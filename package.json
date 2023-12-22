@@ -1,0 +1,12 @@
+{
+  "name": "ecommerceapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ecommerceApp.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
